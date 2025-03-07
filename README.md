@@ -1,6 +1,5 @@
 # titouan
 <h1 align="center">Hi there! 👋 I'm Titouan</h1>  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&color=00FF00&center=true&vCenter=true&width=500&lines=Hello+world!;Welcome+to+my+GitHub!;Let's+build+cool+stuff!)
 
 <p align="center">
   <b>Student at ESIEA, interested by cybersecurity</b>
