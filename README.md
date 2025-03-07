@@ -27,5 +27,5 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?cosinussnus=ton-github&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?cosinussnus=ton-github&theme=radical" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?cosinussnus=cosinussnus&theme=radical" width="400">
 </p>
